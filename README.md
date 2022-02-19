@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MatejCreator
+- 👋 Hi, I’m Matej Palčo
 - 👀 I’m interested in WebDevelopment and Python
 - 🌱 I’m currently learning Python
 - 💞️ I’m not looking to collaborate
